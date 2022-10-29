@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexpeain
 - 👀 I’m interested in Fintech, Blockchain and AI
 - 🌱 I’m currently learning Python ,Django ,API ,DataBase
-- 💞️ I’m looking to collaborate on Fintech
+- 💞️ I’m looking to collaborate on Fintech and blockchain
 - 📫 How to reach me @Alexpeain (telegram)
 
 <!---
