@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alexpeain an aspring backend development
+- 👋 Hi, I’m @Alexpeain a backend developer 
 - 👀 I’m interested in Fintech, Blockchain and AI
 - 🌱 I’m currently learning Python ,Django ,API ,DataBase
-- 💞️ I’m looking forwards to collaborate on Fintech and blockchain
+- 💞️ I’m aspiring to get into Fintech and blockchain,WEB 3.0
 - 📫 How to reach me @Alexpeain (telegram)
 
 <!---
