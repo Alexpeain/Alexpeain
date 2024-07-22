@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://alexpeain.github.io/](http://alexpeain.github.io/)
 
-- 📫 How to reach me **@Alexpeain**
+- 📫 How to reach me via telegram **@Alexpeain**
 
 - ⚡ Fun fact **I think I am funny but I am not**
 
