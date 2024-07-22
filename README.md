@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Myanmar Book Reviews](https://github.com/Alexpeain/myanmar-bookreviews)
 
-- 🤝 I’m helping an Education Center build a **School website**
+- 🤝 I’m helping an Education Center building a **School website**
 
 - 🌱 I’m currently learning **Django,REST API,DSA**
 
@@ -26,6 +26,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexpeain&show_icons=true&locale=en" alt="alexpeain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexpeain&" alt="alexpeain" /></p>
+
+<img src="https://raw.githubusercontent.com/alexpeain/alexpeain/output/snake.svg" alt="Snake animation" />
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alexdocoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexdocoding" height="30" width="40" /></a>
