@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Peain</h1>
 <h3 align="center">A passionate Backend Developer and have a huge interested in Fintech, Blockchain and AI and I’m aspiring to get into Fintech and blockchain,WEB 3.0</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexpeain&label=Profile%20views&color=0e75b6&style=flat" alt="alexpeain" /> </p>
 
 - 🔭 I’m currently working on [Myanmar Book Reviews](https://github.com/Alexpeain/myanmar-bookreviews)
 
@@ -35,8 +35,7 @@
 <a href="https://twitter.com/alexdocoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexdocoding" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/this-is-nang-seng-lean-peain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this-is-nang-seng-lean-peain" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexpeain" alt="alexpeain" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexpeain&label=Profile%20views&color=0e75b6&style=flat" alt="alexpeain" /> </p>
+
 
 
 <!---
