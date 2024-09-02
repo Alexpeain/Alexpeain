@@ -7,7 +7,7 @@
 
 - 🤝 I’m helping an Education Center building a **[School website](https://alexpeain.github.io/Hone-I-Fa-School/)**
 
-- 🌱 I’m currently learning **Django,REST API,DSA,Javascripts,Node.js,Express.js**
+- 🌱 I’m currently learning **Django,REST API,DSA,Golang,Javascripts,Node.js,Express.js**
 
 - 👯 I’m looking to collaborate on **Fintech and Backend Development**
 
