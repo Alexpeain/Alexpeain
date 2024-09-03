@@ -33,7 +33,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alexdocoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexdocoding" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/this-is-nang-seng-lean-peain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this-is-nang-seng-lean-peain" height="30" width="40" /></a>
+<a href="mailto:nang.senglean.pein@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this-is-nang-seng-lean-peain" height="30" width="40" style="display: block; border: none;" />
+</a>
 </p>
 
 
