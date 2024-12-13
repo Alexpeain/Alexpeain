@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Django,REST API,DSA,Golang,Javascripts,Node.js,Express.js**
 
+- I am currently practicing my backend development skills using the  [Roadmap.sh](https://roadmap.sh/backend).
+
 - 👯 I’m looking to collaborate on **Fintech and Backend Development**
 
 - 👨‍💻 All of my projects are available at [http://alexpeain.github.io/](http://alexpeain.github.io/)
