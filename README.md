@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django,REST API,DSA,Golang,Javascripts,Node.js,Express.js**
 
-- I am currently practicing my backend development skills using the  [Roadmap.sh](https://roadmap.sh/backend).
+- I am currently practicing in these [Roadmap.sh](https://roadmap.sh/backend) and [30 Days of Cozy Cloud Crew DevOps Challenges](https://discord.gg/bnpYBr2n).
 
 - 👯 I’m looking to collaborate on **Fintech and Backend Development**
 
