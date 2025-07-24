@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Peain</h1>
-<h3 align="center">A passionate Backend Developer and have a huge interested in Fintech, Blockchain and AI and I’m aspiring to get into Fintech and blockchain,WEB 3.0</h3>
+<h3 align="center">A passionate Backend Developer and have a huge interested in Fintech and AI and I’m aspiring to get into Fintech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexpeain&label=Profile%20views&color=0e75b6&style=flat" alt="alexpeain" /> </p>
 
