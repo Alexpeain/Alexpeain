@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Myanmar Book Reviews](https://github.com/Alexpeain/myanmar-bookreviews)
 
-- 🤝 I’m helping an Education Center building a **[School website](https://alexpeain.github.io/Hone-I-Fa-School/)**
-
 - 🌱 I’m currently learning **Django,REST API,DSA,Golang,Javascripts,Node.js,Express.js,[Blockchain](https://updraft.cyfrin.io/dashboard)**
 
 - I am currently practicing  backend development and devops in these [Roadmap.sh](https://roadmap.sh/backend) and [30 Days of Cozy Cloud Crew DevOps Challenges](https://discord.gg/bnpYBr2n).
