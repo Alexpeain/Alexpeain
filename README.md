@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on [Myanmar Book Reviews](https://github.com/Alexpeain/myanmar-bookreviews)
 
-- 🌱 I’m currently learning **Django,REST API,DSA,Golang,Javascripts,Node.js,Express.js,[Blockchain](https://updraft.cyfrin.io/dashboard)**
-
-- I am currently practicing  backend development and devops in these [Roadmap.sh](https://roadmap.sh/backend) and [30 Days of Cozy Cloud Crew DevOps Challenges](https://discord.gg/bnpYBr2n).
+- 🌱 I’m currently learning **Django,REST API,DSA,Golang,Javascripts,Node.js,Express.js** 
+- I am currently practicing  backend development and devops in these [Roadmap.sh](https://roadmap.sh/backend) and [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/).
 
 - 👯 I’m looking to collaborate on **Fintech and Backend Development**
 
