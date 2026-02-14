@@ -3,7 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexpeain&label=Profile%20views&color=0e75b6&style=flat" alt="alexpeain" /> </p>
 
-- 🔭 I’m currently working on [Myanmar Book Reviews](https://github.com/Alexpeain/myanmar-bookreviews)
+
+### 🔭 I’m currently working on
+- [Myanmar Book Reviews](https://github.com/Alexpeain/myanmar-bookreviews)
+- [FixFinders](https://github.com/Alexpeain/FixFinders)
+- [Shan Proverbs](https://github.com/Alexpeain/shan-proverbs)
+- [Accountability Hub](https://github.com/Alexpeain/accountability-hub)
+- [DSA Nagbot](https://github.com/Alexpeain/dsa-nagbot)
+
 
 - 🌱 I’m currently learning **Django,REST API,DSA,Golang,Javascripts,Node.js,Express.js** 
 - I am currently practicing  backend development and devops in these [Roadmap.sh](https://roadmap.sh/backend) and [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/).
